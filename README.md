@@ -1,5 +1,4 @@
 ## Profile
----
 •홍익대학교 컴퓨터공학과 재학 (2019.03 ~ )
 
 •홍익대학교 멋쟁이사자처럼 11기 BE (2023.03 ~)
@@ -8,7 +7,6 @@
 
 
 ## Participation
----
 • 내 손 안의 전세사기 방지 솔루션, Clutch (FE)
 
 • 소상공인을 위한 온라인 쇼핑몰 플랫폼, Potential (BE)
@@ -17,7 +15,6 @@
 
 
 ## Stack
----
 ### Languages
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 
