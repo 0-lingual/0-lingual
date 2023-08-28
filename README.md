@@ -6,14 +6,14 @@
 
 •홍익대학교 멋쟁이사자처럼 11기 BE (2023.03 ~)
 
-•홍익대학교 UMC 5기 iOS 파트장 (2023.08 ~)
+•홍익대학교 UMC 5기 iOS 파트장 (2023.09 ~)
 
 
 ## Stack
 ---
 
 <img src="https://img.shields.io/badge/Python#3776AB?style=for-the-badge&logo=
-Python&logoColor=white">
+python&logoColor=white">
 
   
 
