@@ -20,4 +20,6 @@
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white">
  
 
-     
+## Participation
+---
+• 내 손 안의 전세사기 방지 솔루션, 클러치(앱스토어 등록 신청 예정)
