@@ -7,6 +7,15 @@
 •홍익대학교 UMC 5기 iOS 파트장 (2023.09 ~)
 
 
+## Participation
+---
+• 내 손 안의 전세사기 방지 솔루션, Clutch (FE)
+
+• 소상공인을 위한 온라인 쇼핑몰 플랫폼, Potential (BE)
+
+• 추천 알고리즘을 통한 밥친구 추천 웹서비스, 밥메이트 (BE)
+
+
 ## Stack
 ---
 ### Languages
@@ -18,12 +27,4 @@
   
 ### Frameworks
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white">
- 
 
-## Participation
----
-• 내 손 안의 전세사기 방지 솔루션, Clutch (FE)
-
-• 소상공인을 위한 온라인 쇼핑몰 플랫폼, Potential (BE)
-
-• 추천 알고리즘을 통한 밥친구 추천 웹서비스, 밥메이트 (BE)
