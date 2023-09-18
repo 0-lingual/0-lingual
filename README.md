@@ -13,8 +13,6 @@
 
 • 소상공인을 위한 온라인 쇼핑몰 플랫폼, Potential (BE)
 
-• 추천 알고리즘을 통한 밥친구 추천 웹서비스, 밥메이트 (BE)
-
 
 ## Stack
 ### Programming Languages
