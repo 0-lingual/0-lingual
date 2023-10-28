@@ -11,8 +11,6 @@
 ## Participation
 • 내 손 안의 전세사기 방지 솔루션, Clutch (FE)
 
-• 소상공인을 위한 온라인 쇼핑몰 플랫폼, Potential (BE)
-
 
 ## Stack
 ### Programming Languages
