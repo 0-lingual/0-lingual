@@ -7,6 +7,10 @@
 
 •홍익대학교 UMC 5기 iOS 파트장 (2023.09 ~)
 
+•Codeit boost 창설 운영진 (2024.01 ~2024.03)
+
+•홍익대학교 Codeit boost 1기 리더 (2024.03 ~)
+
 
 ## Participation
 • 내 손 안의 전세사기 방지 솔루션, Clutch (FE)
