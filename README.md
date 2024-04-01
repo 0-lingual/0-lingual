@@ -9,7 +9,7 @@
 
 •Codeit boost 창설 운영진 (2024.01 ~2024.03)
 
-•홍익대학교 Codeit boost 1기 리더 (2024.03 ~)
+•홍익대학교 Codeit boost 1기 리더 (2024.03 ~)
 
 
 ## Participation
