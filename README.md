@@ -33,6 +33,5 @@
 <img src="https://img.shields.io/badge/html-1572B6?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-E34F26?style=for-the-badge&logo=css&logoColor=white">
 
 ### Frameworks
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"> <img src="https://yt3.googleusercontent.com/ytc/APkrFKanCAlOqdFV9JY5srK-48nP-VahmoSRHNFPovkwsQ=s900-c-k-c0x00ffffff-no-rj" alt="TensorFlow" width="28" height="28">
-
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
