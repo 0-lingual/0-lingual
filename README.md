@@ -17,6 +17,13 @@
 
 • 소상공인을 위한 쇼핑 플랫폼, Potential (BE)
 
+• 신촌 지역 대학생 밥친구 매칭 플랫폼, 밥메이트 (BE)
+
+• Deepfake Detection using CNN (ML)
+
+• 3D 가상 의류 서비스, Fit Magazine (FE)
+
+
 
 ## Stack
 ### Programming Languages
@@ -25,7 +32,7 @@
 ### Markup Languages
 <img src="https://img.shields.io/badge/html-1572B6?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-E34F26?style=for-the-badge&logo=css&logoColor=white">
 
-  
 ### Frameworks
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"> <img src="https://yt3.googleusercontent.com/ytc/APkrFKanCAlOqdFV9JY5srK-48nP-VahmoSRHNFPovkwsQ=s900-c-k-c0x00ffffff-no-rj" alt="TensorFlow" width="28" height="28">
+
 
