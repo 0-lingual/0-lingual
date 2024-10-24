@@ -3,13 +3,11 @@
 
 •홍익대학교 멋쟁이사자처럼 11기 BE (2023.03 ~ 2024.02)
 
-•홍익대학교 UMC 4기 iOS (2023.03 ~ 2023.08)
+•UMC 4기 iOS, 5기 홍익대학교 iOS 파트장 (2023.03 ~ 2024.02)
 
-•홍익대학교 UMC 5기 iOS 파트장 (2023.09 ~2024.02)
+•Codeit boost 창설 운영진, 홍익대학교 1기 리더 (2024.01 ~2025.02)
 
-•Codeit boost 창설 운영진 (2024.01 ~2024.03)
-
-•홍익대학교 Codeit boost 1기 리더 (2024.03 ~)
+•CEOS 20기 기획 (2024.09 ~)
 
 
 ## Participation
@@ -22,6 +20,8 @@
 • Deepfake Detection using CNN (ML)
 
 • 3D 가상 의류 서비스, Fit Magazine (FE)
+
+• 스타트업과 엔젤투자자를 연결하는 플랫폼, Angel Bridge (PM)
 
 
 
