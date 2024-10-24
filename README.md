@@ -1,7 +1,7 @@
 ## Profile
 •홍익대학교 컴퓨터공학과 재학 (2019.03 ~ )
 
-•홍익대학교 멋쟁이사자처럼 11기 BE (2023.03 ~ 2024.02)
+•멋쟁이사자처럼 11기 BE (2023.03 ~ 2024.02)
 
 •UMC 4기 iOS, 5기 홍익대학교 iOS 파트장 (2023.03 ~ 2024.02)
 
@@ -13,13 +13,13 @@
 ## Participation
 • 내 손 안의 전세사기 방지 솔루션, Clutch (FE)
 
-• 소상공인을 위한 쇼핑 플랫폼, Potential (BE)
+• 소상공인을 위한 이커머스 플랫폼, Potential (BE)
 
 • 신촌 지역 대학생 밥친구 매칭 플랫폼, 밥메이트 (BE)
 
 • Deepfake Detection using CNN (ML)
 
-• 3D 가상 의류 서비스, Fit Magazine (FE)
+• 3D 가상 의류 피팅 서비스, Fit Magazine (FE)
 
 • 스타트업과 엔젤투자자를 연결하는 플랫폼, Angel Bridge (PM)
 
