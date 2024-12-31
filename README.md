@@ -21,7 +21,7 @@
 
 • 3D 가상 의류 피팅 서비스, Fit Magazine (FE)
 
-• 스타트업과 엔젤투자자를 연결하는 플랫폼, Angel Bridge (PM)
+• 챌린지형 창업 교육 플랫폼, Angel Bridge (PM)
 
 
 
